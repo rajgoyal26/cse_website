@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'project.apps.ProjectConfig',
     'student.apps.StudentConfig',
     'user.apps.UserConfig',
-    'publications.apps.PublicationsConfig',
+    'publications.appsgit .PublicationsConfig',
     'forum.apps.ForumConfig',
 ]
 

@@ -17,3 +17,4 @@ class Faculty(models.Model):
     specialization = models.CharField(max_length=50)
     description = models.TextField()
     # employ_id = models.ForeignKey(Employ, on_delete=None)
+
